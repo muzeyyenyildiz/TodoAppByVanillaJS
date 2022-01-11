@@ -33,14 +33,14 @@ To do app was created by Vanilla Javascript
 
 ##### Login page
 ![alt text](preview/loginPage.JPG)
-![alt text](preview/loginPageSelect.JPG)
+![alt text](preview/loginPageSelect.jpg)
 
 ##### Todo list page
-![alt text](preview/emptytodo.jpg)
-![alt text](preview/addNewTodo.jpg)
+![alt text](preview/emptytodo.JPG)
+![alt text](preview/addNewTodo.JPG)
 ![alt text](preview/todoList.JPG)
 ![alt text](preview/editing.JPG)
-![alt text](preview/deleteButton.JPG)
+![alt text](preview/deleteButton.jpg)
 ![alt text](preview/checked.JPG)
 
 
