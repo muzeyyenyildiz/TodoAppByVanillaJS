@@ -36,7 +36,7 @@ To do app was created by Vanilla Javascript
 ![alt text](preview/loginPageSelect.jpg)
 
 ##### Todo list page
-![alt text](preview/emptytodo.JPG)
+![alt text](preview/emptyTodo.JPG)
 ![alt text](preview/addNewTodo.JPG)
 ![alt text](preview/todoList.JPG)
 ![alt text](preview/editing.JPG)
