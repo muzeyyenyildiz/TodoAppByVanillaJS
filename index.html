@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style/modal.css" />
+    <link rel="stylesheet" href="style/index.css" />
+    <title>TodoApp</title>
+  </head>
+  <body>
+    <div class="current-user">
+      <p id="user-write" class="hello-user">Hello</p>
+      <button id="logout" class="logout-btn">Log out</button>
+    </div>
+    <div class="todo-container">
+      <div class="todo-list-cont">
+        <div class="todo-list-head">
+          <h1 class="header">To do</h1>
+        </div>
+        <div class="todo">
+          <div class="todo-list-container" id="todoListContainer">
+            <!--TodoList prototype -->
+            <!-- <div class="categorized-todo-list-container" id="key">
+              <div class="todo-head">
+                <img src="vektor/date.png" alt="date" />
+                <h2 class="date-head">Day Month Year</h2>
+              </div>
+              <ul class="todo-list">
+                <li class="todo-list-item">
+                  <label class="todo-check">
+                    <input type="checkbox" />
+                    <span class="checkmark"></span>
+                  </label>
+                  <input class="todo-input" type="text" value="Task 1" />
+                  <button class="todo-edit"></button>
+                  <button class="todo-delete"></button>
+                </li>
+              </ul>
+            </div> -->
+          </div>
+        </div>
+      </div>
+      <!--Add New Todo-->
+      <div class="add-task">
+        <button id="addBtn">Add New Task</button>
+      </div>
+      <!-- Modal -->
+      <div id="modal" class="modal">
+        <div class="modal-content">
+          <form id="form">
+            <div class="form-row">
+              <label for="title">
+                Title <input name="title" id="title" type="text" />
+              </label>
+            </div>
+            <div class="form-row">
+              <label for="date">
+                Date <input name="date" id="date" type="date" />
+              </label>
+            </div>
+            <div class="button-row">
+              <button type="button" id="cancel" class="modalbtn">Cancel</button>
+              <button type="submit" id="save" class="modalbtn">Save</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+     <!-- Modal -->
+    <!--Script-->
+    <script src="js/modal.js"></script>
+    <script src="js/index.js"></script>
+  </body>
+</html>
