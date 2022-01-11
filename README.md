@@ -32,19 +32,19 @@ To do app was created by Vanilla Javascript
 - User can see his/her todo list if he/she login again because the app will save the todo list in local storage
 
 ##### Login page
-![plot](screenshots/LoginPage.JPG)
-![plot](screenshots/LoginPageSelect.JPG)
+![alt text](screenshots/LoginPage.JPG)
+![alt text](screenshots/LoginPageSelect.JPG)
 
 ##### Todo list page
-![plot](screenshots/emptytodo.JPG)
-![plot](screenshots/AddNewTodo.JPG)
-![plot](screenshots/TodoList.JPG)
-![plot](screenshots/editing.JPG)
-![plot](screenshots/deleteButton.JPG)
-![plot](screenshots/checked.JPG)
+![alt text](screenshots/emptytodo.JPG)
+![alt text](screenshots/AddNewTodo.JPG)
+![alt text](screenshots/TodoList.JPG)
+![alt text](screenshots/editing.JPG)
+![alt text](screenshots/deleteButton.JPG)
+![alt text](screenshots/checked.JPG)
 
 
-### You see portakal's todo list (my cat)
+##### You see portakal's todo list (my cat)
 See you!
 
 
